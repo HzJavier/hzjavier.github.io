@@ -6,7 +6,8 @@ categories: books
 ---
 
 # [The Martian][wiki] 
-### by Andy Weir
+ 
+> **by Andy Weir**
 
 This book remind me what it means to be an engineer.
 
