@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Which 22\" penny board to buy"
-date:   2016-03-23 14:32:20 -0600
+date:   2016-03-06 14:32:20 -0600
 categories: skateboard 
 ---
 
