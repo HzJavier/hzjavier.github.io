@@ -4,6 +4,8 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+I'm a software engineer from Guadalajara, México.
+
+Working @ [Wizeline](https://www.wizeline.com/) and building [Polka Workshop](http://polkaworkshop.com/)
 
 {% include footer.html %}
