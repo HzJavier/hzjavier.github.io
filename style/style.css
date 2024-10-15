@@ -1,0 +1,61 @@
+#content_wrapper {
+  font-family: 'Raleway', sans-serif;
+  width: 1000px;
+  margin: auto;
+}
+#content_wrapper a {
+  text-decoration: none;
+  color: #15868d;
+}
+#content_wrapper a:hover {
+  color: #093d40;
+}
+#content_wrapper a:visited {
+  color: #15868d;
+}
+#content_wrapper a:visited:hover {
+  color: #093d40;
+}
+#content_wrapper header {
+  margin-top: 20px;
+  border-bottom: solid 1px #d3d3d3;
+  height: 80px;
+}
+#content_wrapper header h3 {
+  width: 150px;
+  padding-left: 30px;
+  font-size: 1.5em;
+  font-weight: normal;
+}
+#content_wrapper header nav {
+  font-size: 1em;
+  position: absolute;
+  right: 350px;
+  top: 30px;
+}
+#content_wrapper main #main_quote {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  text-align: center;
+  font-size: 2.5em;
+}
+#content_wrapper footer {
+  margin-top: 50px;
+  border-top: solid 1px #d3d3d3;
+}
+#content_wrapper footer ul#social_profiles {
+  padding-top: 20px;
+  width: 400px;
+  margin: auto;
+}
+#content_wrapper footer ul#social_profiles li {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+ul.unstyled {
+  list-style-type: none;
+}
+ul.inline li {
+  float: left;
+  margin-left: 50px;
+}
